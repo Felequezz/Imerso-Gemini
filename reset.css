@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  text-decoration: none;
+  element.style: none;
+}
+
+ol {
+  list-style: none;
+}
